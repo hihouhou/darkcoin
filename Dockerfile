@@ -2,7 +2,7 @@
 # Debian with added Darkcoin server.
 ###############################################
 
-# Using latest Ubuntu image as base
+# Using latest debian image as base
 FROM debian:latest
 
 MAINTAINER hihouhou < hihouhou@hihouhou.com >
